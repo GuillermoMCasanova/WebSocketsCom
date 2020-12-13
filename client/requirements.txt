@@ -1,0 +1,2 @@
+# Websockets.io
+python-socketio[client]
