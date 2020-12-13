@@ -1,0 +1,9 @@
+# Client
+client/.venv
+
+# Server
+server/node_modules
+
+# Extra files
+server/.vscode
+client/.vscode

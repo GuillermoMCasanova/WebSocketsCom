@@ -1,0 +1,19 @@
+{
+  "name": "xws",
+  "version": "1.0.0",
+  "description": "Websockets project for real time communication.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Guillermo J. Casanova F.",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^3.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
